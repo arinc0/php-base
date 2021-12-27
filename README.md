@@ -4,4 +4,5 @@
 
 `sh initialize.sh`
   
+## 他のPHPのリポジトリで使う基礎的な環境
   
